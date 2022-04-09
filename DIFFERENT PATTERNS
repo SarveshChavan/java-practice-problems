@@ -113,7 +113,7 @@ public class pattern {
         int choice=1,r,num;
         char sym;
         while(choice!=0){
-            System.out.print("MENU\n1.Half char pyramid(l)\n2.Half char pyramid(r)\n3.Half number pyramid(l)\n4.Half inverted char pyramid(r)\n5.Half inverted char pyramid(l)\n6.Full char pyramid\n7.Full inverted char pyramid\n6.up down char pyramid\n0.Exit\n");
+            System.out.print("MENU\n1.Half char pyramid(l)\n2.Half char pyramid(r)\n3.Half number pyramid(l)\n4.Half inverted char pyramid(r)\n5.Half inverted char pyramid(l)\n6.Full char pyramid\n7.Full inverted char pyramid\n8.Two side char pyramid\n0.Exit\n");
             System.out.print("Enter Choice : ");
             choice=sc.nextInt();
             switch(choice){
