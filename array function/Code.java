@@ -126,7 +126,7 @@ class arrfun{
           }
           if(dup==0)
           {
-              System.out.println("sorry dupicate for "+arr[i]+" is not available");
+              System.out.println("sorry duplicate for "+arr[i]+" is not available");
           }
       }
       System.out.println();
